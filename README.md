@@ -27,3 +27,6 @@ layer历经三年考验，已经清楚地懂得了人们最需要的是什么，
 
 ## 备注
 [官网](http://sentsin.com/jquery/layer/)、[更新日志](https://github.com/sentsin/layer/blob/master/Update%20Notes.txt)、[Say交流](http://say.sentsin.com/home-48.html)
+
+
+嘎嘎
